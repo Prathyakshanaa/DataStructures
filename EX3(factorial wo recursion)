@@ -9,3 +9,8 @@ int main(){
 	printf("Factorial of number=%d",fact);
 	return 0;
 }
+
+OUTPUT: 
+
+Enter a number:5
+Factorial of number=120
