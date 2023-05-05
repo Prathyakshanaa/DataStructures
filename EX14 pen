@@ -68,3 +68,14 @@ int main()
   
     return 0;  
 }    
+
+
+OUTPUT:
+
+
+ The Preorder traversal of given binary tree is -
+ 36  26  21  11  24  31  46  41  56  51  66
+ The Inorder traversal of given binary tree is -
+ 11  21  24  26  31  36  41  46  51  56  66
+ The Postorder traversal of given binary tree is -
+ 11  24  21  31  26  41  51  66  56  46  36
