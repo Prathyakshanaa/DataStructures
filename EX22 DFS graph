@@ -33,3 +33,19 @@ int main() {
 	  printf("\n Graph is connected"); else
 	  printf("\n Graph is not connected");
 }
+
+
+OUTPUT:
+
+
+Enter number of vertices:2
+
+ Enter the adjacency matrix:
+2
+2
+2
+2
+
+ 1->2
+
+ Graph is connected
